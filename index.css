@@ -6,3 +6,8 @@ body{
 .chandan{
 /* display: none; */
 }
+.input{
+    width: 80%;
+display: flex;
+justify-content: space-between;
+}
