@@ -3,6 +3,11 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-.chandan{
+.shivanshu{
 /* display: none; */
+}
+.input{
+    width: 80%;
+display: flex;
+justify-content: space-between;
 }
